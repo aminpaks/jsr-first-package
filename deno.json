@@ -1,0 +1,5 @@
+{
+    "name": "@aminpaks/first-package",
+    "version": "0.0.1",
+    "exports": "./mod.ts"
+  }
